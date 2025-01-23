@@ -18,9 +18,9 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 
 **知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
 
-**个人公众号：是不是很酷**：）
+**个人公众号：xmg2023**：）
 
-![QRCode](qrcode.png)
+![QRCode](wechat.jpg)
 
 **知识星球（免费）**
 
@@ -235,9 +235,9 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [solution](https://leetcode.com/problems/reverse-bits/solution/) | [C++](0001-0500/0190-Reverse-Bits/cpp-0190/) | | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | [C++](0001-0500/0191-Number-of-1-Bits/cpp-0191/) | | |
 | 192 | Bash Shell Problem: [Word Frequency](https://leetcode.com/problems/word-frequency/description/) | - | - | - | - |
-| 193 | Bash Shell Problem: [][Link]() | - | - | - | - |
-| 194 | Bash Shell Problem: [][Link]() | - | - | - | - |
-| 195 | Bash Shell Problem: [][Link]() | - | - | - | - |
+| 193 | Bash Shell Problem: [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/) | - | - | - | - |
+| 194 | Bash Shell Problem: [Transpose File](https://leetcode.com/problems/transpose-file/description/) | - | - | - | - |
+| 195 | Bash Shell Problem: [Tenth Line](https://leetcode.com/problems/tenth-line/description/) | - | - | - | - |
 | 196 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 197 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) | [C++](0001-0500/0198-House-Robber/cpp-0198/) | [Java](0001-0500/0198-House-Robber/java-0198/src/) | |
