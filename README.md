@@ -234,7 +234,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [solution](https://leetcode.com/problems/rotate-array/solution/) | [C++](0001-0500/0189-Rotate-Array/cpp-0189/) | | |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [solution](https://leetcode.com/problems/reverse-bits/solution/) | [C++](0001-0500/0190-Reverse-Bits/cpp-0190/) | | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | [C++](0001-0500/0191-Number-of-1-Bits/cpp-0191/) | | |
-| 192 | Bash Shell Problem: [Word Frequency][Link](https://leetcode.com/problems/word-frequency/description/) | - | - | - | - |
+| 192 | Bash Shell Problem: [Word Frequency](https://leetcode.com/problems/word-frequency/description/) | - | - | - | - |
 | 193 | Bash Shell Problem: [][Link]() | - | - | - | - |
 | 194 | Bash Shell Problem: [][Link]() | - | - | - | - |
 | 195 | Bash Shell Problem: [][Link]() | - | - | - | - |
