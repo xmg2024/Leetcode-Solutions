@@ -234,7 +234,10 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [solution](https://leetcode.com/problems/rotate-array/solution/) | [C++](0001-0500/0189-Rotate-Array/cpp-0189/) | | |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [solution](https://leetcode.com/problems/reverse-bits/solution/) | [C++](0001-0500/0190-Reverse-Bits/cpp-0190/) | | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | [C++](0001-0500/0191-Number-of-1-Bits/cpp-0191/) | | |
-| | | | | | |
+| 192 | Bash Shell Problem: [Word Frequency][Link](https://leetcode.com/problems/word-frequency/description/) | - | - | - | - |
+| 193 | Bash Shell Problem: [][Link]() | - | - | - | - |
+| 194 | Bash Shell Problem: [][Link]() | - | - | - | - |
+| 195 | Bash Shell Problem: [][Link]() | - | - | - | - |
 | 196 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 197 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) | [C++](0001-0500/0198-House-Robber/cpp-0198/) | [Java](0001-0500/0198-House-Robber/java-0198/src/) | |
