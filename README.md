@@ -12,7 +12,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 如果对代码仓有任何问题，欢迎联系我：）
 
-**电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
+**电子邮件**：[ml112265@126.com](mailto:ml112265@126.com)
 
 **知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
 
