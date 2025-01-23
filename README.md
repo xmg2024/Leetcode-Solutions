@@ -14,7 +14,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 
 **电子邮件**：[ml112265@126.com](mailto:ml112265@126.com)
 
-**知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
+**知乎**: [马力 https://www.zhihu.com/people/xmg91](https://www.zhihu.com/people/xmg91)
 
 **知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
 
