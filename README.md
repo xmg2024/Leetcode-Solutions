@@ -74,7 +74,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [solution](https://leetcode.com/problems/divide-two-integers/solution/)<br/>[缺：不使用乘法加法除法] | [C++](0001-0500/0029-Divide-Two-Integers/cpp-0029/) | | |
 | 030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [solution](https://leetcode.com/problems/substring-with-concatenation-of-all-words/solution/) | [C++](0001-0500/0030-Substring-with-Concatenation-of-All-Words/cpp-0030/) | | |
 | 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [solution](https://leetcode.com/problems/next-permutation/solution/) | [C++](0001-0500/0031-Next-Permutation/cpp-0031/) | | |
-| | | | | | |
+| 031 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0001-0500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0001-0500/0034-Search-for-a-Range/cpp-0034/) | | |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [solution](https://leetcode.com/problems/search-insert-position/solution/) | [C++](0001-0500/0035-Search-Insert-Position/cpp-0035/) | | |
