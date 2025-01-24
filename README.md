@@ -196,7 +196,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [无] | [C++](0001-0500/151-Reverse-Words-in-a-String/cpp-0151/) | | |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [solution](https://leetcode.com/problems/maximum-product-subarray/)<br/>[缺：Linear] | [C++](0001-0500/0152-Maximum-Product-Subarray/cpp-0152/) | | [Python](0001-0500/0152-Maximum-Product-Subarray/py-0152/) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solution/) | [C++](0001-0500/0153-Find-Minimum-in-Rotated-Sorted-Array/cpp-0153/) | | |
-| | | | | | |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | | | | |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [无] | [C++](0001-0500/0155-Min-Stack/cpp-0155/) | | |
 | | | | | | |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/solution/) | [C++](0001-0500/0159-Longest-Substring-with-At-Most-Two-Distinct-Characters/cpp-0159/) | | |
