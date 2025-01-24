@@ -74,7 +74,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [solution](https://leetcode.com/problems/divide-two-integers/solution/)<br/>[缺：不使用乘法加法除法] | [C++](0001-0500/0029-Divide-Two-Integers/cpp-0029/) | | |
 | 030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [solution](https://leetcode.com/problems/substring-with-concatenation-of-all-words/solution/) | [C++](0001-0500/0030-Substring-with-Concatenation-of-All-Words/cpp-0030/) | | |
 | 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [solution](https://leetcode.com/problems/next-permutation/solution/) | [C++](0001-0500/0031-Next-Permutation/cpp-0031/) | | |
-| 031 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | | | | |
+| 032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [C++](0001-0500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | [C++](0001-0500/0034-Search-for-a-Range/cpp-0034/) | | |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [solution](https://leetcode.com/problems/search-insert-position/solution/) | [C++](0001-0500/0035-Search-Insert-Position/cpp-0035/) | | |
@@ -86,7 +86,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [solution](https://leetcode.com/problems/first-missing-positive/solution/) | [C++](0001-0500/0041-First-Missing-Positive/cpp-0041/) | | |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [solution](https://leetcode.com/problems/trapping-rain-water/solution/) | [C++](0001-0500/0042-Trapping-Rain-Water/cpp-0042/) | | |
 | 043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [solution](https://leetcode.com/problems/multiply-strings/solution/) | [C++](0001-0500/0043-Multiply-Strings/cpp-0043/) | | |
-| | | | | | |
+| 044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | | | | |
 | 045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [solution](https://leetcode.com/problems/jump-game-ii/solution/) | [C++](0001-0500/0045-Jump-Game-II/cpp-0045/) | | |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] | [C++](0001-0500/0046-Permutations/cpp-0046/) | [Java](0001-0500/0046-Permutations/java-0046/src/) | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | [C++](0001-0500/0047-Permutations-II/cpp-0047/) | | |
