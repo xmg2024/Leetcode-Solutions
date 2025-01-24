@@ -102,7 +102,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [solution](https://leetcode.com/problems/insert-interval/solutions/2914120/insert-intervals/?orderBy=most_votes) | [C++](0001-0500/0057-Insert-Interval/cpp-0057/) | | |
 | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [solution](https://leetcode.com/problems/length-of-last-word/solution/) | [C++](0001-0500/0058-Length-of-Last-Word/cpp-0058/) | | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | [C++](0001-0500/0059-Spiral-Matrix-II/cpp-0059/) | | |
-| | | | | | |
+| 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | | | | |
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | [C++](0001-0500/0061-Rotate-List/cpp-0061/) | | |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>[缺：数学解] | [C++](0001-0500/0062-Unique-Paths/cpp-0062/) | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [C++](0001-0500/0063-Unique-Paths-II/cpp-0063/) | | |
