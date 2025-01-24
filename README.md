@@ -22,10 +22,6 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 
 ![QRCode](wechat.jpg)
 
-**知识星球（免费）**
-
-![zsxq](zsxq.jpg)
-
 <br/>
 
 ## 其他相关代码仓
@@ -55,7 +51,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [solution](https://leetcode.com/problems/zigzag-conversion/solution/) | [C++](0001-0500/0006-Zigzag-Conversion/cpp-006/) | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | [C++](0001-0500/0007-Reverse-Integer/cpp-0007/) | | |
 | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](https://leetcode.com/problems/string-to-integer-atoi/solution/) | [C++](0001-0500/0008-String-to-Integer/cpp-0008/) | | |
-| | | | | | |
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | | | | |
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [solution](https://leetcode.com/problems/regular-expression-matching/solution/) | [C++](0001-0500/0010-Regular-Expression-Matching/cpp-0010/) | | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [solution](https://leetcode.com/problems/container-with-most-water/solution/) | [C++](0001-0500/0011-Container-With-Most-Water/cpp-0011/) | | |
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] | [C++](0001-0500/0012-Integer-to-Roman/cpp-0012/) | | |
