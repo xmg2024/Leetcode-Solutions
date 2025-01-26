@@ -554,7 +554,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [无] | [C++](0501-1000/0509-Fibonacci-Number/cpp-0509/) | | |
 | 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [无] | [C++](0501-1000/0510-Inorder-Successor-in-BST-II/cpp-0510/) | | |
 | 511 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 512 | []() | | | | |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [无] | [C++](0501-1000/0513-Find-Bottom-Left-Tree-Value/cpp-0513/) | | |
 | | | | | | |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [无] | [C++](0501-1000/0515-Find-Largest-Value-in-Each-Tree-Row/cpp-0515/) | | |
