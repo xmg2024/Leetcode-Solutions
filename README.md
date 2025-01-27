@@ -649,17 +649,23 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 608 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [solution](https://leetcode.com/problems/find-duplicate-file-in-system/solution/) | [C++](0501-1000/0609-Find-Duplicate-File-in-System/cpp-0609/) | | |
-| | | | | | |
+| 601 | []() | | | | |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [solution](https://leetcode.com/problems/valid-triangle-number/solution/) | [C++](0501-1000/0611-Valid-Triangle-Number/cpp-0611/) | | |
-| | | | | | |
+| 601 | []() | | | | |
+| 601 | []() | | | | |
+| 601 | []() | | | | |
+| 601 | []() | | | | |
+| 601 | []() | | | | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](0501-1000/0617-Merge-Two-Binary-Trees/cpp-0617/) | | | |
-| | | | | | |
+| 601 | []() | | | | |
 | 619 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 601 | []() | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
-| | | | | | |
+| 601 | []() | | | | |
+| 601 | []() | | | | |
+| 601 | []() | | | | |
 | 627 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
 | 629 | [K-Inverse-Pairs-Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [solution](https://leetcode.com/problems/k-inverse-pairs-array/solution/)<br/>[缺：其他 dp 优化思路] | [C++](0501-1000/0629-K-Inverse-Pairs-Array/cpp-0629/) | | |
