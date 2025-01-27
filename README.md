@@ -644,6 +644,9 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | [solution](https://leetcode.com/problems/minimum-index-sum-of-two-lists/solution/) | [C++](0501-1000/0599-Minimum-Index-Sum-of-Two-Lists/cpp-0599/) | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | [solution](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/solution/)<br/>[缺：Bit Manipulation]| [C++](0501-1000/0600-Non-negative-Integers-without-Consecutive-Ones/cpp-0600/) | | |
 | 601 | []() | | | | |
+| 602 | []() | | | | |
+| 603 | []() | | | | |
+| 604 | []() | | | | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [solution](https://leetcode.com/problems/can-place-flowers/solution/) | [C++](0501-1000/0605-Can-Place-Flowers/cpp-0605/) | | |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [solution](https://leetcode.com/problems/construct-string-from-binary-tree/solution/) | [C++](0501-1000/0606-Construct-String-from-Binary-Tree/cpp-0606/) | | |
 | 607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
@@ -651,35 +654,36 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [solution](https://leetcode.com/problems/find-duplicate-file-in-system/solution/) | [C++](0501-1000/0609-Find-Duplicate-File-in-System/cpp-0609/) | | |
 | 601 | []() | | | | |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [solution](https://leetcode.com/problems/valid-triangle-number/solution/) | [C++](0501-1000/0611-Valid-Triangle-Number/cpp-0611/) | | |
-| 601 | []() | | | | |
-| 601 | []() | | | | |
-| 601 | []() | | | | |
-| 601 | []() | | | | |
-| 601 | []() | | | | |
+| 612 | []() | | | | |
+| 613 | []() | | | | |
+| 614 | []() | | | | |
+| 615 | []() | | | | |
+| 616 | []() | | | | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](0501-1000/0617-Merge-Two-Binary-Trees/cpp-0617/) | | | |
-| 601 | []() | | | | |
+| 618 | []() | | | | |
 | 619 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| 601 | []() | | | | |
+| 620 | []() | | | | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [solution](https://leetcode.com/problems/task-scheduler/solution/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [无] | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | | |
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [solution](https://leetcode.com/problems/add-one-row-to-tree/solution/) | [C++](0501-1000/0623-Add-One-Row-to-Tree/cpp-0623/) | | |
-| 601 | []() | | | | |
-| 601 | []() | | | | |
-| 601 | []() | | | | |
+| 624 | []() | | | | |
+| 625 | []() | | | | |
+| 626 | []() | | | | |
 | 627 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solution/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | | |
 | 629 | [K-Inverse-Pairs-Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [solution](https://leetcode.com/problems/k-inverse-pairs-array/solution/)<br/>[缺：其他 dp 优化思路] | [C++](0501-1000/0629-K-Inverse-Pairs-Array/cpp-0629/) | | |
 | 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [solution](https://leetcode.com/problems/course-schedule-iii/solution/) | [C++](0501-1000/0630-Course-Schedule-III/cpp-0630/) | | |
-| | | | | | |
+| 631 | []() | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [solution](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/solution/) | [C++](0501-1000/0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | | |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](0501-1000/0633-Sum-of-Square-Numbers/cpp-0633/) | | | |
-| | | | | | |
+| 634 | []() | | | | |
+| 635 | []() | | | | |
 | 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [无] | [C++](0501-1000/0636-Exclusive-Time-of-Functions/cpp-0636/) | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [solution](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [C++](0501-1000/0637-Average-of-Levels-in-Binary-Tree/cpp-0637/) | | |
 | 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [solution](https://leetcode.com/problems/shopping-offers/solution/) | [C++](0501-1000/0638-Shopping-Offers/cpp-0638/) | | |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [solution](https://leetcode.com/problems/decode-ways-ii/solution/)<br/>[缺：DP] | [C++](0501-1000/0639-Decode-Ways-II/cpp-0639/) | | |
 | 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [无] | [C++](0501-1000/0640-Solve-the-Equation/cpp-0640/) | | |
-| | | | | | |
+| 641 | []() | | | | |
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [无] | [C++](0501-1000/0642-Design-Search-Autocomplete-System/cpp-0642/) | | |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [solution](https://leetcode.com/problems/maximum-average-subarray-i/solution/) | [C++](0501-1000/0643-Maximum-Average-Subarray-I/cpp-0643/) | | |
 | 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | [solution](https://leetcode.com/problems/maximum-average-subarray-ii/solution/) | [C++](0501-1000/0644-Maximum-Average-Subarray-II/cpp-0644/) | | |
@@ -689,15 +693,16 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | [无] | [C++](0501-1000/0648-Replace-Words/cpp-0648/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [solution](https://leetcode.com/problems/dota2-senate/solution/)<br/>[缺：队列] | [C++](0501-1000/0649-Dota2-Senate/cpp-0649/) | | |
 | 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [solution](https://leetcode.com/problems/2-keys-keyboard/solution/) | [C++](0501-1000/0650-2-Keys-Keyboard/cpp-0650/) | | |
-| | | | | | |
+| 651 | []() | | | | |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | [C++](0501-1000/0652-Find-Duplicate-Subtrees/cpp-0652/) | | |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [无] | [C++](0501-1000/0653-Two-Sum-IV-Input-is-a-BST/cpp-0653/) | | |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [solution](https://leetcode.com/problems/maximum-binary-tree/solution/) | [C++](0501-1000/0654-Maximum-Binary-Tree/cpp-0654/) | | |
 | 655 | |[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [无] | [C++](0501-1000/0655-Print-Binary-Tree/cpp-0655/) | |
-| | | | | | |
+| 656 | []() | | | | |
+| 657 | []() | | | | |
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [solution](https://leetcode.com/problems/find-k-closest-elements/solution/)<br/>[缺：二分] | [C++](0501-1000/0658-Find-K-Closest-Elements/cpp-0658/) | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solution/) | [C++](0501-1000/0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | | |
-| | | | | | |
+| 660 | []() | | | | |
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [无] | [C++](0501-1000/0658-Image-Smoother/cpp-0658/) | | |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [solution](https://leetcode.com/problems/maximum-width-of-binary-tree/solution/) | [C++](0501-1000/0662-Maximum-Width-of-Binary-Tree/cpp-0662/) | | |
 | | | | | | |
