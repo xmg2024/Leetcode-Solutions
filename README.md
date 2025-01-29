@@ -705,7 +705,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 660 | []() | | | | |
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [无] | [C++](0501-1000/0658-Image-Smoother/cpp-0658/) | | |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [solution](https://leetcode.com/problems/maximum-width-of-binary-tree/solution/) | [C++](0501-1000/0662-Maximum-Width-of-Binary-Tree/cpp-0662/) | | |
-| | | | | | |
+| 663 | []() | | | | |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [solution](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | | |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [solution](https://leetcode.com/problems/non-decreasing-array/solution/) | [C++](0501-1000/0665-Non-decreasing-Array/cpp-0665/) | | |
 | 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | [solution](https://leetcode.com/problems/path-sum-iv/solution/) | [C++](0501-1000/0666-Path-Sum-IV/cpp-0666/) | | |
