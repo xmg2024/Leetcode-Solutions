@@ -818,7 +818,9 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 773 | []() | | | | |
 | 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [solution](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0501-1000/0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | | |
 | 775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [C++](0501-1000/0775-Global-and-Local-Inversions/cpp-0775/) | | | |
-| | | | | | |
+| 776 | []() | | | | |
+| 777 | []() | | | | |
+| 778 | []() | | | | |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [无] | [C++](0501-1000/0779-K-th-Symbol-in-Grammar/cpp-0779/) | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0501-1000/0780-Reaching-Points/cpp-0780/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0501-1000/0781-Rabbits-in-Forest/cpp-0781/) | | |
@@ -841,7 +843,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 798 | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [solution](https://leetcode.com/problems/smallest-rotation-with-highest-score/solution/)<br/>[缺：O(n) 解法] | [C++](0501-1000/0798-Smallest-Rotation-with-Highest-Score/cpp-0798/) | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | [C++](0501-1000/0799-Champagne-Tower/cpp-0799/) | | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [solution](https://leetcode.com/problems/similar-rgb-color/solution/) | [C++](0501-1000/0800-Similar-RGB-Color/cpp-0800/) | | |
-| | | | | | |
+| 801 | []() | | | | |
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [solution](https://leetcode.com/problems/find-eventual-safe-states/solution/) | [C++](0501-1000/0802-Find-Eventual-Safe-States/cpp-0802/) | | |
 | 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [无] | [C++](0501-1000/0803-Bricks-Falling-When-Hit/cpp-0803/) | | |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [C++](0501-1000/0804-Unique-Morse-Code-Words/cpp-0804/) | | |
