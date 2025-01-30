@@ -850,24 +850,25 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | [solution](https://leetcode.com/problems/split-array-with-same-average/solution/) | [C++](0501-1000/0805-Split-Array-With-Same-Average/cpp-0805/) | | |
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [solution](https://leetcode.com/problems/number-of-lines-to-write-string/solution/) | [C++](0501-1000/0806-Number-of-Lines-To-Write-String/cpp-0806/) | | |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [solution](https://leetcode.com/problems/max-increase-to-keep-city-skyline/solution/) | [C++](0807-Max-Increase-to-Keep-City-Skyline/cpp-0807/) | | |
-| | | | | | |
+| 808 | []() | | | | |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [solution](https://leetcode.com/problems/expressive-words/solution/) | [C++](0501-1000/0809-Expressive-Words/cpp-0809/) | | |
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [solution](https://leetcode.com/problems/chalkboard-xor-game/solution/) | [C++](0501-1000/0810-Chalkboard-XOR-Game/cpp-0810/) | | |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | [C++](0501-1000/0811-Subdomain-Visit-Count/cpp-0811/) | | |
-| | | | | | |
+| 812 | []() | | | | |
 | 813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) | [solution](https://leetcode.com/problems/largest-sum-of-averages/solutions/) | [C++](0501-1000/0813-Largest-Sum-of-Averages/cpp-0813/) | | |
 | 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [solution](https://leetcode.com/problems/binary-tree-pruning/solution/) | [C++](0501-1000/0814-Binary-Tree-Pruning/cpp-0814/) | | |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [solution](https://leetcode.com/problems/bus-routes/solution/) | [C++](0501-1000/0815-Bus-Routes/cpp-0815/) | | |
-| | | | | | |
+| 816 | []() | | | | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [solution](https://leetcode.com/problems/linked-list-components/solution/) | [C++](0501-1000/0817-Linked-List-Components/cpp-0817/) | | |
-| | | | | | |
+| 818 | []() | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [solution](https://leetcode.com/problems/most-common-word/solution/) | [C++](0501-1000/0819-Most-Common-Word/cpp-0819/) | | |
-| | | | | | |
+| 820 | []() | | | | |
+| 821 | []() | | | | |
 | 822 | [Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) | [无] | [C++](0501-1000/0822-Card-Flipping-Game/cpp-0822/) | | |
 | 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [solution](https://leetcode.com/problems/binary-trees-with-factors/solution/) | [C++](0501-1000/0823-Binary-Trees-With-Factors/cpp-0823/) | | |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [无] | [C++](0501-1000/0824-Goat-Latin/cpp-0824/) | | |
 | 825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [无] | [C++](0501-1000/0825-Friends-Of-Appropriate-Ages/cpp-0825/) | | |
-| | | | | | |
+| 826 | []() | | | | |
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [无] | [C++](0501-1000/0827-Making-A-Large-Island/cpp-0827/) | | |
 | 828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [无] | [C++](0501-1000/0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String/cpp-0828/) | | |
 | 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [无] | [C++](0501-1000/0829-Consecutive-Numbers-Sum/cpp-0829/) | | |
