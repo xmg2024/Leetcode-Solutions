@@ -1005,7 +1005,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [solution](https://leetcode.com/problems/regions-cut-by-slashes/solution/) | [C++](0501-1000/0959-Regions-Cut-By-Slashes/cpp-0959/) | | |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/solution/) | [C++](0501-1000/0960-Delete-Columns-to-Make-Sorted-III/cpp-0960/) | | |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [solution](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/solution/) | [C++](0501-1000/0961-N-Repeated-Element-in-Size-2N-Array/cpp-0961/) | | |
-| | | | | | |
+| 962 | []() | | | | |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [solution](https://leetcode.com/problems/univalued-binary-tree/solution/) | [C++](0501-1000/0965-Univalued-Binary-Tree/cpp-0965/) | | |
 | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [solution](https://leetcode.com/problems/vowel-spellchecker/solution/) | [C++](0501-1000/0966-Vowel-Spellchecker/cpp-0966/) | | |
 | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [solution](https://leetcode.com/problems/numbers-with-same-consecutive-differences/solution/) | [C++](0501-1000/0967-Numbers-With-Same-Consecutive-Differences/cpp-0967/) | | |
