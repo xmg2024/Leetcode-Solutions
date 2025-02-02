@@ -886,7 +886,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 840 | []() | | | | |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [solution](https://leetcode.com/problems/keys-and-rooms/solution/) | [C++](0501-1000/0841-Keys-and-Rooms/cpp-0841/) | | |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [solution](https://leetcode.com/problems/split-array-into-fibonacci-sequence/solution/) | [C++](0501-1000/0842-Split-Array-into-Fibonacci-Sequence/cpp-0842/) | | |
-| | | | | | |
+| 843 | []() | | | | |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [solution](https://leetcode.com/problems/backspace-string-compare/solution/) | [C++](0501-1000/0844-Backspace-String-Compare/cpp-0844/) | | |
 | | | | | | |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [无] | [C++](0501-1000/0846-Hand-of-Straights/cpp-0846/) | | |
