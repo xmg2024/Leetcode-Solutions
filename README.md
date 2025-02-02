@@ -905,7 +905,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [solution](https://leetcode.com/problems/buddy-strings/solution/) | [C++](0501-1000/0859-Buddy-Strings/cpp-0859/) | | |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [solution](https://leetcode.com/problems/lemonade-change/solution/) | [C++](0501-1000/0860-Lemonade-Change/cpp-0860/) | | |
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [solution](https://leetcode.com/problems/score-after-flipping-matrix/solution/) | [C++](0501-1000/0861-Score-After-Flipping-Matrix/cpp-0861/) | | |
-| | | | | | |
+| 862 | []() | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/) | [C++](0501-1000/0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | | |
 | 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [solution](https://leetcode.com/problems/shortest-path-to-get-all-keys/solution/)<br/>[缺：Dijkstra] | [C++](0501-1000/0864-Shortest-Path-to-Get-All-Keys/cpp-0864/) | | |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | [C++](0501-1000/0865-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0865/) | | |
