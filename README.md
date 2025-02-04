@@ -1103,7 +1103,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1057 | []() | | | | |
 | 1058 | []() | | | | |
 | 1059 | [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) | [solution](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/solution/) | [C++](1001-1500/1059-All-Paths-from-Source-Lead-to-Destination/cpp-1059/) | | |
-| | | | | | |
+| 1060 | []() | | | | |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [无] | [C++](1001-1500/1061-Lexicographically-Smallest-Equivalent-String/cpp-1061/) | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
 | | | | | | |
