@@ -1088,7 +1088,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [无] | [C++](1001-1500/1042-Flower-Planting-With-No-Adjacent/cpp-1042/) | | |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [无] | [C++](1001-1500/1043-Partition-Array-for-Maximum-Sum/cpp-1043/) | | |
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [无]<br/>[缺：后缀数组] | [C++](1001-1500/1044-Longest-Duplicate-Substring/cpp-1044/) | | |
-| | | | | | |
+| 1045 | []() | | | | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | [C++](1001-1500/1046-Last-Stone-Weight/cpp-1046/) | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | [C++](1001-1500/1047-Remove-All-Adjacent-Duplicates-In-String/cpp-1047/) | | |
 | | | | | | |
