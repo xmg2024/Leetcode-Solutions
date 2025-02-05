@@ -1112,6 +1112,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | [solution](https://leetcode.com/problems/campus-bikes-ii/solutions/1451959/campus-bikes-ii/) | [C++](1001-1500/1066-Campus-Bikes-II/cpp-1066/) | | |
 | 1067 | []() | | | | |
 | 1068 | []() | | | | |
+| 1069 | []() | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
 | | | | | | |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [无] | [C++](1001-1500/1074-Number-of-Submatrices-That-Sum-to-Target/cpp-1074/) | | |
