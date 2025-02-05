@@ -1091,7 +1091,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1045 | []() | | | | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | [C++](1001-1500/1046-Last-Stone-Weight/cpp-1046/) | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | [C++](1001-1500/1047-Remove-All-Adjacent-Duplicates-In-String/cpp-1047/) | | |
-| | | | | | |
+| 1048 | []() | | | | |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [无] | [C++](1001-1500/1049-Last-Stone-Weight-II/cpp-1049/) | | |
 | 1050 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [无] | [C++](1001-1500/1051-Height-Checker/cpp-1051/) | | |
