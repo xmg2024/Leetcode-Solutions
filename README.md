@@ -1116,7 +1116,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1070 | []() | | | | |
 | 1071 | []() | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
-| | | | | | |
+| 1073 | []() | | | | |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [无] | [C++](1001-1500/1074-Number-of-Submatrices-That-Sum-to-Target/cpp-1074/) | | |
 | | | | | | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [无] | [C++](1001-1500/1078-Occurrences-After-Bigram/cpp-1078/) | | |
