@@ -1125,7 +1125,8 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1001-1500/1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1001-1500/1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [无] | [C++](1001-1500/1081-Smallest-Subsequence-of-Distinct-Characters/cpp-1081/) | | |
-| | | | | | |
+| 1071 | []() | | | | |
+| 1071 | []() | | | | |
 | 1084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1001-1500/1087-Brace-Expansion/cpp-1087/) | | |
