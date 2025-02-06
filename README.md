@@ -1120,7 +1120,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [无] | [C++](1001-1500/1074-Number-of-Submatrices-That-Sum-to-Target/cpp-1074/) | | |
 | 1075 | []() | | | | |
 | 1076| []() | | | | |
-| 1071 | []() | | | | |
+| 1077 | []() | | | | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [无] | [C++](1001-1500/1078-Occurrences-After-Bigram/cpp-1078/) | | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1001-1500/1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1001-1500/1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
