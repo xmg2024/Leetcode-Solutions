@@ -1160,7 +1160,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1114 | []() | | | | |
 | 1115 | []() | | | | |
 | 1116 | []() | | | | |
-| 1113 | []() | | | | |
+| 1117 | []() | | | | |
 | 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [无] | [C++](1001-1500/1118-Number-of-Days-in-a-Month/cpp-1118/) | | |
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [无] | [C++](1001-1500/1119-Remove-Vowels-from-a-String/cpp-1119/) | | |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [无] | [C++](1001-1500/1120-Maximum-Average-Subtree/cpp-1120/) | | |
