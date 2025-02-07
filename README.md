@@ -1129,7 +1129,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1083 | []() | | | | |
 | 1084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1085 | []() | | | | |
-| 1083 | []() | | | | |
+| 1086 | []() | | | | |
 | 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1001-1500/1087-Brace-Expansion/cpp-1087/) | | |
 | 1088 | [Confusing Number II](https://leetcode.com/problems/confusing-number-ii/description/) | [无] | [C++](1001-1500/1088-Confusing-Number-II/cpp-1088/) | | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1001-1500/1089-Duplicate-Zeros/cpp-1089/) | | |
