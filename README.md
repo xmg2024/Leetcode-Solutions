@@ -1140,7 +1140,8 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [无] | [C++](1001-1500/1094-Car-Pooling/cpp-1094/) | | |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [无] | [C++](1001-1500/1095-Find-in-Mountain-Array/cpp-1095/) | | |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [无]<br/>[缺：非递归算法] | [C++](1001-1500/1096-Brace-Expansion-II/cpp-1096/) | | |
-| | | | | | |
+| 1097 | []() | | | | |
+| 1083 | []() | | | | |
 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [无] | [C++](1001-1500/1099-Two-Sum-Less-Than-K/cpp-1099/) | | |
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [无] | [C++](1001-1500/1100-Find-K-Length-Substrings-With-No-Repeated-Characters/cpp-1100/) | | |
 | 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [无] | [C++](1001-1500/1101-The-Earliest-Moment-When-Everyone-Become-Friends/cpp-1101/) | | |
