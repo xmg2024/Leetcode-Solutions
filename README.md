@@ -1150,7 +1150,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [无] | [C++](1001-1500/1104-Path-In-Zigzag-Labelled-Binary-Tree/cpp-1104/) | | |
 | 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [无] | [C++](1001-1500/1105-Filling-Bookcase-Shelves/cpp-1105/) | | |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [无]<br/>[缺：非递归算法] | [C++](1001-1500/1106-Parsing-A-Boolean-Expression/cpp-1106/) | | |
-| | | | | | |
+| 1107 | []() | | | | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [无] | [C++](1001-1500/1108-Defanging-an-IP-Address/cpp-1108/) | | |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [无] | [C++](1001-1500/1109-Corporate-Flight-Bookings/cpp-1009/) | | |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [无] | [C++](1001-1500/1110-Delete-Nodes-And-Return-Forest/cpp-1110/) | | |
