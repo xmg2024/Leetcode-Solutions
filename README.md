@@ -1156,7 +1156,11 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [无] | [C++](1001-1500/1110-Delete-Nodes-And-Return-Forest/cpp-1110/) | | |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [无] | [C++](1001-1500/1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/cpp-1111/) | | |
 | 1112 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1113 | []() | | | | |
+| 1113 | []() | | | | |
+| 1113 | []() | | | | |
+| 1113 | []() | | | | |
+| 1113 | []() | | | | |
 | 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [无] | [C++](1001-1500/1118-Number-of-Days-in-a-Month/cpp-1118/) | | |
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [无] | [C++](1001-1500/1119-Remove-Vowels-from-a-String/cpp-1119/) | | |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [无] | [C++](1001-1500/1120-Maximum-Average-Subtree/cpp-1120/) | | |
