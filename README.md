@@ -1166,6 +1166,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [无] | [C++](1001-1500/1120-Maximum-Average-Subtree/cpp-1120/) | | |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | [无] | [C++](1001-1500/1121-Divide-Array-Into-Increasing-Sequences/cpp-1121/) | | |
 | 1122 | []() | | | | |
+| 1123 | []() | | | | |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [无] | [C++](1001-1500/1124-Longest-Well-Performing-Interval/cpp-1124/) | | |
 | | | | | | |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [无] | [C++](1001-1500/1128-Number-of-Equivalent-Domino-Pairs/cpp-1128/) | | |
