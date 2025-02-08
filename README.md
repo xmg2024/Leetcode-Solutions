@@ -1169,7 +1169,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1123 | []() | | | | |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [无] | [C++](1001-1500/1124-Longest-Well-Performing-Interval/cpp-1124/) | | |
 | 1125 | []() | | | | |
-| 1123 | []() | | | | |
+| 1126 | []() | | | | |
 | 1123 | []() | | | | |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [无] | [C++](1001-1500/1128-Number-of-Equivalent-Domino-Pairs/cpp-1128/) | | |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [无] | [C++](1001-1500/1129-Shortest-Path-with-Alternating-Colors/cpp-1129/) | | |
