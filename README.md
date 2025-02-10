@@ -1202,7 +1202,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [无] | [C++](1001-1500/1156-Swap-For-Longest-Repeated-Character-Substring/cpp-1156/) | | |
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [无] | [C++](1001-1500/1157-Online-Majority-Element-In-Subarray/cpp-1157/) | | |
 | 1158 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1159 | []() | | | | |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [无] | [C++](1001-1500/1160-Find-Words-That-Can-Be-Formed-by-Characters/cpp-1160/) | | |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [无] | [C++](1001-1500/1161-Maximum-Level-Sum-of-a-Binary-Tree/cpp-1161/) | | |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [无] | [C++](1001-1500/1162-As-Far-from-Land-as-Possible/cpp-1162/) | | |
