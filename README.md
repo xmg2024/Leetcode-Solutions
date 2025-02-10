@@ -1217,7 +1217,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [无] | [C++](1001-1500/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/cpp-1171/) | | |
 | 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [无] | [C++](1001-1500/1172-Dinner-Plate-Stacks/cpp-1172/) | | |
 | 1173 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1174 | []() | | | | |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [无] | [C++](1001-1500/1175-Prime-Arrangements/) | | |
 | 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [无] | [C++](1001-1500/1176-Diet-Plan-Performance/cpp-1176/) | | |
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [无] | [C++](1001-1500/1177-Can-Make-Palindrome-from-Substring/cpp-1177/) | | |
