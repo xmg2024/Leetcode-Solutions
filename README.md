@@ -1175,7 +1175,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [无] | [C++](1001-1500/1129-Shortest-Path-with-Alternating-Colors/cpp-1129/) | | |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [无] | [C++](1001-1500/1130-Minimum-Cost-Tree-From-Leaf-Values/cpp-1130/) | | |
 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [无] | [C++](1001-1500/1131-Maximum-of-Absolute-Value-Expression/cpp-1131/) | | |
-| | | | | | |
+| 1132 | []() | | | | |
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [无] | [C++](1001-1500/1133-Largest-Unique-Number/cpp-1133/) | | |
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | [C++](1001-1500/1134-Armstrong-Number/cpp-1134/) | | |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [无] | [C++](1001-1500/1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | | |
