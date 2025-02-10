@@ -1185,7 +1185,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [无] | [C++](1001-1500/1139-Largest-1-Bordered-Square/cpp-1139/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [无] | [C++](1001-1500/1140-Stone-Game-II/cpp-1140/) | | |
 | 1141 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1142 | []() | | | | |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [无] | [C++](1001-1500/1143-Longest-Common-Subsequence/cpp-1143/) | | |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [无] | [C++](1001-1500/1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | | |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [无] | [C++](1001-1500/1145-Binary-Tree-Coloring-Game/cpp-1145/) | | |
