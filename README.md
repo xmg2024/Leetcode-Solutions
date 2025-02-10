@@ -1192,7 +1192,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [无] | [C++](1001-1500/1146-Snapshot-Array/cpp-1146/) | | |
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [无] | [C++](1001-1500/1147-Longest-Chunked-Palindrome-Decomposition/cpp-1147/) | | |
 | 1148 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1149 | []() | | | | |
 | 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/is-a-a-majority-element/) | [无] | [C++](1001-1500/1150-Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array/cpp-1150/) | | |
 | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [无] | [C++](1001-1500/1151-Minimum-Swaps-to-Group-All-1s-Together/cpp-1151/) | | |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [无] | [C++](1001-1500/1152-Analyze-User-Website-Visit-Pattern/cpp-1152/) | | |
