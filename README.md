@@ -1289,7 +1289,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [无] | [C++](1001-1500/1243-Array-Transformation/cpp-1243/) | | |
 | 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [无] | [C++](1001-1500/1244-Design-A-Leaderboard/cpp-1244/) | | |
 | 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [无] | [C++](1001-1500/1245-Tree-Diameter/cpp-1245/) | | |
-| 1225 | []() | | | | |
+| 1226 | []() | | | | |
 | 1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | [无] | [C++](1001-1500/1247-Minimum-Swaps-to-Make-Strings-Equal/cpp-1247/) | | |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [无] | [C++](1001-1500/1248-Count-Number-of-Nice-Subarrays/cpp-1248/) | [Java](1001-1500/1248-Count-Number-of-Nice-Subarrays/java-1248/) | |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [solution](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solution/) | [C++](1001-1500/1249-Minimum-Remove-to-Make-Valid-Parentheses/cpp-1249/) | | |
