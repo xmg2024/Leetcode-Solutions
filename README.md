@@ -1284,7 +1284,8 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [无] | [C++](1001-1500/1238-Circular-Permutation-in-Binary-Representation/cpp-1238/) | | |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [无] | [C++](1001-1500/1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/cpp-1239/) | | |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [无] | [C++](1001-1500/1240-Tiling-a-Rectangle-with-the-Fewest-Squares/cpp-1240/) | | |
-| | | | | | |
+| 1241 | []() | | | | |
+| 1225 | []() | | | | |
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [无] | [C++](1001-1500/1243-Array-Transformation/cpp-1243/) | | |
 | 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [无] | [C++](1001-1500/1244-Design-A-Leaderboard/cpp-1244/) | | |
 | 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [无] | [C++](1001-1500/1245-Tree-Diameter/cpp-1245/) | | |
