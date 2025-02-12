@@ -1270,7 +1270,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [无] | [C++](1001-1500/1224-Maximum-Equal-Frequency/cpp-1224/) | | |
 | 1225 | []() | | | | |
 | 1226 | []() | | | | |
-| 1225 | []() | | | | |
+| 1227 | []() | | | | |
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [无] | [C++](1001-1500/1228-Missing-Number-In-Arithmetic-Progression/cpp-1228/) | | |
 | 1229 | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) | [无] | [C++](1001-1500/1229-Meeting-Scheduler/cpp-1229/) | | |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [无] | [C++](1001-1500/1230-Toss-Strange-Coins/cpp-1230/) | | |
