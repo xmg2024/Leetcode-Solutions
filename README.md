@@ -1309,7 +1309,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | [无] | [C++](1001-1500/1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location/cpp-1263/) | | |
 | 1264 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1265 | []() | | | | |
-| 1265 | []() | | | | |
+| 1266 | []() | | | | |
 | 1265 | []() | | | | |
 | 1265 | []() | | | | |
 | 1265 | []() | | | | |
