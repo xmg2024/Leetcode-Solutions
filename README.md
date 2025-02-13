@@ -1312,7 +1312,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1266 | []() | | | | |
 | 1267 | []() | | | | |
 | 1268 | []() | | | | |
-| 1265 | []() | | | | |
+| 1269 | []() | | | | |
 | 1265 | []() | | | | |
 | 1265 | []() | | | | |
 | 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) | [无] | [C++](1001-1500/1272-Remove-Interval/cpp-1272/) | | |
