@@ -1300,7 +1300,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [无] | [C++](1001-1500/1254-Number-of-Closed-Islands/cpp-1254/) | | |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | [无] | [C++](1001-1500/1255-Maximum-Score-Words-Formed-by-Letters/cpp-1255/) | | |
 | 1256 | []() | | | | |
-| 1246 | []() | | | | |
+| 1257 | []() | | | | |
 | 1246 | []() | | | | |
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/description/) | [无] | [C++](1001-1500/1259-Handshakes-That-Dont-Cross/cpp-1259/) | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1001-1500/1260-Shift-2D-Grid/cpp-1260/) | | |
