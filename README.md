@@ -1316,7 +1316,8 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1270 | []() | | | | |
 | 1271 | []() | | | | |
 | 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) | [无] | [C++](1001-1500/1272-Remove-Interval/cpp-1272/) | | |
-| | | | | | |
+| 1273 | []() | | | | |
+| 1271 | []() | | | | |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [无] | [C++](1001-1500/1275-Find-Winner-on-a-Tic-Tac-Toe-Game/cpp-1275/) | | |
 | | | | | | |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [题解](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/solution/tong-ji-quan-wei-1-de-zheng-fang-xing-zi-ju-zhen-2/) | [C++](1001-1500/1277-Count-Square-Submatrices-with-All-Ones/cpp-1277/) | | |
