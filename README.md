@@ -1299,7 +1299,9 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/) | [无] | [C++](1001-1500/1253-Reconstruct-a-2-Row-Binary-Matrix/cpp-1253/) | | |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [无] | [C++](1001-1500/1254-Number-of-Closed-Islands/cpp-1254/) | | |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | [无] | [C++](1001-1500/1255-Maximum-Score-Words-Formed-by-Letters/cpp-1255/) | | |
-| | | | | | |
+| 1256 | []() | | | | |
+| 1246 | []() | | | | |
+| 1246 | []() | | | | |
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/description/) | [无] | [C++](1001-1500/1259-Handshakes-That-Dont-Cross/cpp-1259/) | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1001-1500/1260-Shift-2D-Grid/cpp-1260/) | | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1001-1500/1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
