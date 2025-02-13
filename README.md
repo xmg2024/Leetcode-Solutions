@@ -1310,7 +1310,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1264 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1265 | []() | | | | |
 | 1266 | []() | | | | |
-| 1265 | []() | | | | |
+| 1267 | []() | | | | |
 | 1265 | []() | | | | |
 | 1265 | []() | | | | |
 | 1265 | []() | | | | |
