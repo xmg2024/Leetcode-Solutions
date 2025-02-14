@@ -1319,10 +1319,10 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1273 | []() | | | | |
 | 1274 | []() | | | | |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [无] | [C++](1001-1500/1275-Find-Winner-on-a-Tic-Tac-Toe-Game/cpp-1275/) | | |
-| 1271 | []() | | | | |
+| 1276 | []() | | | | |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [题解](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/solution/tong-ji-quan-wei-1-de-zheng-fang-xing-zi-ju-zhen-2/) | [C++](1001-1500/1277-Count-Square-Submatrices-with-All-Ones/cpp-1277/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [无] | [C++](1001-1500/1278-Palindrome-Partitioning-III/cpp-1278/) | | |
-| | | | | | |
+| 1271 | []() | | | | |
 | 1280 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [无] | [C++](1001-1500/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/cpp-1281/) | | |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [无] | [C++](1001-1500/1282-Group-the-People-Given-the-Group-Size-They-Belong-To/cpp-1282/) | | |
