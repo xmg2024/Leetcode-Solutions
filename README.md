@@ -1330,7 +1330,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1284 | []() | | | | |
 | 1285 | []() | | | | |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [solution](https://leetcode.com/problems/iterator-for-combination/solution/) | [C++](1001-1500/1286-Iterator-for-Combination/cpp-1286/) | | |
-| 1271 | []() | | | | |
+| 1287 | []() | | | | |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [solution](https://leetcode.com/problems/remove-covered-intervals/solution/) | [C++](1001-1500/1288-Remove-Covered-Intervals/cpp-1288/) | | |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [无] | [C++](1001-1500/1289-Minimum-Falling-Path-Sum-II/cpp-1289/) | | |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/) | [C++](1001-1500/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer/cpp-1290/) | | |
