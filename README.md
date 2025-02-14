@@ -1326,7 +1326,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1280 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [无] | [C++](1001-1500/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/cpp-1281/) | | |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [无] | [C++](1001-1500/1282-Group-the-People-Given-the-Group-Size-They-Belong-To/cpp-1282/) | | |
-| 1271 | []() | | | | |
+| 1273 | []() | | | | |
 | 1271 | []() | | | | |
 | 1271 | []() | | | | |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [solution](https://leetcode.com/problems/iterator-for-combination/solution/) | [C++](1001-1500/1286-Iterator-for-Combination/cpp-1286/) | | |
