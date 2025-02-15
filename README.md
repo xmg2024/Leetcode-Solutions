@@ -1335,7 +1335,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [无] | [C++](1001-1500/1289-Minimum-Falling-Path-Sum-II/cpp-1289/) | | |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [solution](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/) | [C++](1001-1500/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer/cpp-1290/) | | |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [solution](https://leetcode.com/problems/sequential-digits/solution/) | [C++](1001-1500/1291-Sequential-Digits/cpp-1291/) | | |
-| | | | | | |
+| 1286 | []() | | | | |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [solution](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [C++](1001-1500/1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination/cpp-1293/) | | |
 | | | | | | |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://leetcode.com/problems/deepest-leaves-sum/solution/) | [C++](1302-Deepest-Leaves-Sum/cpp-1302/) | | |
