@@ -1339,7 +1339,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [solution](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [C++](1001-1500/1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination/cpp-1293/) | | |
 | 1294 | []() | | | | |
 | 1295 | []() | | | | |
-| 1292 | []() | | | | |
+| 1296 | []() | | | | |
 | 1292 | []() | | | | |
 | 1292 | []() | | | | |
 | 1292 | []() | | | | |
