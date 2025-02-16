@@ -1343,7 +1343,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1297 | []() | | | | |
 | 1298 | []() | | | | |
 | 1299 | []() | | | | |
-| 1292 | []() | | | | |
+| 1300 | []() | | | | |
 | 1292 | []() | | | | |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://leetcode.com/problems/deepest-leaves-sum/solution/) | [C++](1302-Deepest-Leaves-Sum/cpp-1302/) | | |
 | 1303 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
