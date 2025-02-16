@@ -1344,7 +1344,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1298 | []() | | | | |
 | 1299 | []() | | | | |
 | 1300 | []() | | | | |
-| 1292 | []() | | | | |
+| 1301 | []() | | | | |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [solution](https://leetcode.com/problems/deepest-leaves-sum/solution/) | [C++](1302-Deepest-Leaves-Sum/cpp-1302/) | | |
 | 1303 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [无] | [C++](1001-1500/1304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp-1304/) | | |
