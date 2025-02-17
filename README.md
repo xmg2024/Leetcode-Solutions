@@ -1351,7 +1351,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [无] | [C++](1001-1500/1305-All-Elements-in-Two-Binary-Search-Trees/cpp-1305/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [无] | [C++](1001-1500/1306-Jump-Game-III/cpp-1306/) | | |
 | 1307 | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [无] | [C++](1001-1500/1307-Verbal-Arithmetic-Puzzle/cpp-1307/) | | |
-| | | | | | |
+| 1308 | []() | | | | |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [无] | [C++](1001-1500/1309-Decrypt-String-from-Alphabet-to-Integer-Mapping/cpp-1309/) | | |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [无] | [C++](1001-1500/1310-XOR-Queries-of-a-Subarray/cpp-1310/) | | |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [无] | [C++](1001-1500/1311-Get-Watched-Videos-by-Your-Friends/cpp-1311/) | | |
