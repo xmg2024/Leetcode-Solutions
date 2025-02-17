@@ -1368,7 +1368,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1322 | []() | | | | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [无] | [C++](1001-1500/1323-Maximum-69-Number/cpp-1323/) | | |
 | 1324 | []() | | | | |
-| 1320 | []() | | | | |
+| 1325 | []() | | | | |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) | [无] | [C++](1001-1500/1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden/cpp-1326/) | | |
 | 1320 | []() | | | | |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [solution](https://leetcode.com/problems/break-a-palindrome/solution/) | [C++](1001-1500/1328-Break-a-Palindrome/cpp-1328/) | | |
