@@ -1357,7 +1357,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [无] | [C++](1001-1500/1311-Get-Watched-Videos-by-Your-Friends/cpp-1311/) | | |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [无] | [C++](1001-1500/1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/cpp-1312/) | | |
 | 1313 | []() | | | | |
-| 1313 | []() | | | | |
+| 1314 | []() | | | | |
 | 1313 | []() | | | | |
 | 1313 | []() | | | | |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [无] | [C++](1001-1500/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/cpp-1317/) | | |
