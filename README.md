@@ -1370,7 +1370,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1324 | []() | | | | |
 | 1325 | []() | | | | |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) | [无] | [C++](1001-1500/1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden/cpp-1326/) | | |
-| 1320 | []() | | | | |
+| 1327 | []() | | | | |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [solution](https://leetcode.com/problems/break-a-palindrome/solution/) | [C++](1001-1500/1328-Break-a-Palindrome/cpp-1328/) | | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [solution](https://leetcode.com/problems/sort-the-matrix-diagonally/solution/) | [C++](1001-1500/1329-Sort-the-Matrix-Diagonally/cpp-1329/) | | |
 | 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/) | [无] | [C++](1001-1500/1330-Reverse-Subarray-To-Maximize-Array-Value/cpp-1330/) | | |
