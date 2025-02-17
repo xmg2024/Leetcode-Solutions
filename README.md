@@ -1356,7 +1356,10 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [无] | [C++](1001-1500/1310-XOR-Queries-of-a-Subarray/cpp-1310/) | | |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [无] | [C++](1001-1500/1311-Get-Watched-Videos-by-Your-Friends/cpp-1311/) | | |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [无] | [C++](1001-1500/1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/cpp-1312/) | | |
-| | | | | | |
+| 1313 | []() | | | | |
+| 1313 | []() | | | | |
+| 1313 | []() | | | | |
+| 1313 | []() | | | | |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [无] | [C++](1001-1500/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/cpp-1317/) | | |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [无] | [C++](1001-1500/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/cpp-1318/) | | |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [无] | [C++](1001-1500/1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | | |
