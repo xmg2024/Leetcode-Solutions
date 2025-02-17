@@ -1363,11 +1363,14 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [无] | [C++](1001-1500/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/cpp-1317/) | | |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [无] | [C++](1001-1500/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/cpp-1318/) | | |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [无] | [C++](1001-1500/1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | | |
-| | | | | | |
+| 1320 | []() | | | | |
+| 1320 | []() | | | | |
+| 1320 | []() | | | | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [无] | [C++](1001-1500/1323-Maximum-69-Number/cpp-1323/) | | |
-| | | | | | |
+| 1320 | []() | | | | |
+| 1320 | []() | | | | |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) | [无] | [C++](1001-1500/1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden/cpp-1326/) | | |
-| | | | | | |
+| 1320 | []() | | | | |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [solution](https://leetcode.com/problems/break-a-palindrome/solution/) | [C++](1001-1500/1328-Break-a-Palindrome/cpp-1328/) | | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [solution](https://leetcode.com/problems/sort-the-matrix-diagonally/solution/) | [C++](1001-1500/1329-Sort-the-Matrix-Diagonally/cpp-1329/) | | |
 | 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/) | [无] | [C++](1001-1500/1330-Reverse-Subarray-To-Maximize-Array-Value/cpp-1330/) | | |
@@ -1376,7 +1379,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [无] | [C++](1001-1500/1333-Filter-Restaurants-by-Vegan-Friendly-Price-and-Distance/cpp-1333/) | | |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [无] | [C++](1001-1500/1334-Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance/cpp-1334/) | | |
 | 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [无] | [C++](1001-1500/1335-Minimum-Difficulty-of-a-Job-Schedule/cpp-1335/) | | |
-| | | | | | |
+| 1320 | []() | | | | |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [solution](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solution/) | [C++](1001-1500/1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [solution](https://leetcode.com/problems/reduce-array-size-to-the-half/solution/) | [C++](1001-1500/1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [solution](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/solution/) | [C++](1001-1500/1339-Maximum-Product-of-Splitted-Binary-Tree/cpp-1339/) | | |
