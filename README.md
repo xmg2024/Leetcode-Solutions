@@ -1365,7 +1365,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [无] | [C++](1001-1500/1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | | |
 | 1320 | []() | | | | |
 | 1321 | []() | | | | |
-| 1320 | []() | | | | |
+| 1322 | []() | | | | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [无] | [C++](1001-1500/1323-Maximum-69-Number/cpp-1323/) | | |
 | 1320 | []() | | | | |
 | 1320 | []() | | | | |
