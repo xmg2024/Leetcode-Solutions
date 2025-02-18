@@ -1428,7 +1428,10 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1382 | []() | | | | |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [无] | [C++](1001-1500/1383-Maximum-Performance-of-a-Team/cpp-1383/) | | |
 | 1384 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1380 | []() | | | | |
+| 1380 | []() | | | | |
+| 1380 | []() | | | | |
+| 1380 | []() | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1001-1500/1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [无] | [C++](1001-1500/1390-Four-Divisors/cpp-1390/) | | |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [无] | [C++](1001-1500/1391-Check-if-There-is-a-Valid-Path-in-a-Grid/cpp-1391/) | | |
