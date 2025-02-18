@@ -1429,7 +1429,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [无] | [C++](1001-1500/1383-Maximum-Performance-of-a-Team/cpp-1383/) | | |
 | 1384 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1385 | []() | | | | |
-| 1380 | []() | | | | |
+| 1386 | []() | | | | |
 | 1380 | []() | | | | |
 | 1380 | []() | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1001-1500/1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
