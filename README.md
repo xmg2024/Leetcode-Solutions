@@ -1545,7 +1545,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [无] | [C++](1001-1500/1499-Max-Value-of-Equation/cpp-1499/) | | |
 | 1500 | []() | | | | |
 | 1501 | []() | | | | |
-| 1500 | []() | | | | |
+| 1502 | []() | | | | |
 | 1500 | []() | | | | |
 | 1500 | []() | | | | |
 | 1500 | []() | | | | |
