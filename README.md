@@ -1548,9 +1548,20 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1502 | []() | | | | |
 | 1503 | []() | | | | |
 | 1504 | []() | | | | |
-| 1500 | []() | | | | |
+| 1505 | []() | | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [solution](https://leetcode.com/problems/find-root-of-n-ary-tree/solution/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | | |
-| | | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
+| 1500 | []() | | | | |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) | [solution](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/solutions/2864718/number-of-nodes-in-the-sub-tree-with-the-same-label/?orderBy=most_votes) | [C++](1501-2000/1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label/cpp-1519/) | | |
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
