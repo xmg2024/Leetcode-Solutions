@@ -1552,7 +1552,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [solution](https://leetcode.com/problems/find-root-of-n-ary-tree/solution/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | | |
 | 1507 | []() | | | | |
 | 1508 | []() | | | | |
-| 1500 | []() | | | | |
+| 1509 | []() | | | | |
 | 1500 | []() | | | | |
 | 1500 | []() | | | | |
 | 1500 | []() | | | | |
