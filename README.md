@@ -1560,7 +1560,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1514 | []() | | | | |
 | 1515 | []() | | | | |
 | 1516 | []() | | | | |
-| 1510 | []() | | | | |
+| 1517 | []() | | | | |
 | 1510 | []() | | | | |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) | [solution](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/solutions/2864718/number-of-nodes-in-the-sub-tree-with-the-same-label/?orderBy=most_votes) | [C++](1501-2000/1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label/cpp-1519/) | | |
 | | | | | | |
