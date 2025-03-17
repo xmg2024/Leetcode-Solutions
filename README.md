@@ -1561,25 +1561,57 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1515 | []() | | | | |
 | 1516 | []() | | | | |
 | 1517 | []() | | | | |
-| 1510 | []() | | | | |
+| 1518 | []() | | | | |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) | [solution](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/solutions/2864718/number-of-nodes-in-the-sub-tree-with-the-same-label/?orderBy=most_votes) | [C++](1501-2000/1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label/cpp-1519/) | | |
+| | | | | | |
 | | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | [无] | [C++](1501-2000/1523-Count-Odd-Numbers-in-an-Interval-Range/cpp-1523/) | | |
 | | | | | | |
+| | | | | | |
+| | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| | | | | | |
+| | | | | | |
 | | | | | | |
 | 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无][缺：其他解法] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
 | | | | | | |
 | 1533 | [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) | [solution](https://leetcode.com/problems/find-the-index-of-the-large-integer/solutions/2885830/find-the-index-of-the-large-integer/?orderBy=most_votes) | [C++](1501-2000/1533-Find-the-Index-of-the-Large-Integer/cpp-1533/) | | |
 | | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 | | | | | | |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [无] | [C++](1501-2000/1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes/cpp-1557/) | | |
 | | | | | | |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
 | | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 | | | | | | |
 | 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [solution](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [C++](1501-2000/1570-Dot-Product-of-Two-Sparse-Vectors/cpp-1570/) | | |
 | 1571 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
@@ -2293,7 +2325,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [无] | [C++](2001-2500/2279-Maximum-Bags-With-Full-Capacity-of-Rocks/cpp-2279/) | | |
 | 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [无] | [C++](2001-2500/2280-Minimum-Lines-to-Represent-a-Line-Chart/cpp-2280/) | | |
 | 2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) | [无] | [C++](2001-2500/2281-Sum-of-Total-Strength-of-Wizards/cpp-2281/) | | |
-| | | | | | |
+| 2282 | | | | | |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [无] | [C++](2001-2500/2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value/cpp-2283/) | | |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | [无] | [C++](2001-2500/2284-Sender-With-Largest-Word-Count/cpp-2284/) | | |
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [无] | [C++](2001-2500/2285-Maximum-Total-Importance-of-Roads/cpp-2285/) | | |
