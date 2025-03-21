@@ -1568,7 +1568,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | [无] | [C++](1501-2000/1523-Count-Odd-Numbers-in-an-Interval-Range/cpp-1523/) | | |
 | 1524 | | | | | |
-| | | | | | |
+| 1525 | | | | | |
 | | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
