@@ -1571,7 +1571,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1525 | | | | | |
 | 1526 | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 1528 | | | | | |
 | | | | | | |
 | | | | | | |
 | 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无][缺：其他解法] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
