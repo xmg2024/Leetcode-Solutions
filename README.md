@@ -1580,7 +1580,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1534 | | | | | |
 | 1535 | | | | | |
 | 1536 | | | | | |
-| | | | | | |
+| 1537 | | | | | |
 | | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
