@@ -1597,7 +1597,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1551 | | | | | |
 | 1552 | | | | | |
 | 1553 | | | | | |
-| | | | | | |
+| 1554 | | | | | |
 | | | | | | |
 | | | | | | |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [无] | [C++](1501-2000/1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes/cpp-1557/) | | |
