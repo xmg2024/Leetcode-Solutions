@@ -1604,7 +1604,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1558 | | | | | |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
 | 1560 | | | | | |
-| | | | | | |
+| 1561 | | | | | |
 | | | | | | |
 | | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
