@@ -1603,7 +1603,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [无] | [C++](1501-2000/1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes/cpp-1557/) | | |
 | 1558 | | | | | |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
-| | | | | | |
+| 1560 | | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
