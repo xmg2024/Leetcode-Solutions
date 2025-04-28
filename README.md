@@ -1606,7 +1606,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 1560 | | | | | |
 | 1561 | | | | | |
 | 1562 | | | | | |
-| | | | | | |
+| 1563 | | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) |  [无] | [C++](1501-2000/1564-Put-Boxes-Into-the-Warehouse-I/cpp-1564/) | | |
 | | | | | | |
 | | | | | | |
