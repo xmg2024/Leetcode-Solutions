@@ -2350,7 +2350,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [无] | [C++](2001-2500/2304-Minimum-Path-Cost-in-a-Grid/cpp-2304/) | | |
 | 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [无] | [C++](2001-2500/2305-Fair-Distribution-of-Cookies/cpp-2305/) | | |
 | 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | [无] | [C++](2001-2500/2306-Naming-a-Company/cpp-2306/) | | |
-| | | | | | |
+| 2307 | | | | | |
 | 2308 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [无] | [C++](2001-2500/2309-Greatest-English-Letter-in-Upper-and-Lower-Case/cpp-2309/) | | |
 | 2310 | [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/) | [无] | [C++](2001-2500/2310-Sum-of-Numbers-With-Units-Digit-K/cpp-2310/) | | |
