@@ -2414,7 +2414,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [无] | [C++](2001-2500/2368-Reachable-Nodes-With-Restrictions/cpp-2368/) | | |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [无] | [C++](2001-2500/2369-Check-if-There-is-a-Valid-Partition-For-The-Array/cpp-2369/) | | |
 | 2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | [无] | [C++](2001-2500/2370-Longest-Ideal-Subsequence/cpp-2370/) | | |
-| | | | | | |
+| 2371 | | | | | |
 | 2372 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [无] | [C++](2001-2500/2373-Largest-Local-Values-in-a-Matrix/cpp-2373/) | | |
 | 2374 | [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/) | [无] | [C++](2001-2500/2374-Node-With-Highest-Edge-Score/cpp-2374/) | | |
