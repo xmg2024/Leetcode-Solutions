@@ -2796,7 +2796,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [无] | [C++](2501-3000/2750-Ways-to-Split-Array-Into-Good-Subarrays/cpp-2750/) | | |
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [无] | [C++](2501-3000/2751-Robot-Collisions/cpp-2751/) | | |
 | 2752 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
-| | | | | | |
+| 2753 | | | | | |
 | 2754 | JavaScript Problem | - | - | - | - |
 | 2755 | JavaScript Problem | - | - | - | - |
 | 2756 | JavaScript Problem | - | - | - | - |
