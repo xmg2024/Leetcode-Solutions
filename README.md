@@ -16,8 +16,6 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 
 **知乎**: [马力 https://www.zhihu.com/people/xmg91](https://www.zhihu.com/people/xmg91)
 
-**知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
-
 **个人公众号：xmg2023**：）
 
 ![QRCode](wechat.jpg)
