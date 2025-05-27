@@ -2806,7 +2806,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | [无] | [C++](2501-3000/2762-Continuous-Subarrays/cpp-2762/) | | |
 | 2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/) | [无] | [C++](2501-3000/2763-Sum-of-Imbalance-Numbers-of-All-Subarrays/cpp-2763/) | | |
 | 2764 | | | | | |
-| | | | | | |
+| 2765 | | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
