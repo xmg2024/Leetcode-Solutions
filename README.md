@@ -2836,7 +2836,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2742 | | | | | |
 | 2743 | | | | | |
 | 2744 | | | | | |
-| | | | | | |
+| 2745 | | | | | |
 | | | | | | |
 | | | | | | |
 | 2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [无] | [C++](2501-3000/2849-Determine-if-a-Cell-Is-Reachable-at-a-Given-Time/cpp-2849/) | | |
