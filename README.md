@@ -12,7 +12,7 @@ email: [mal15@tsinghua.org.cn](mailto:mal15@tsinghua.org.cn)
 
 如果对代码仓有任何问题，欢迎联系我：）
 
-**电子邮件**：[ml112265@126.com](mailto:ml112265@126.com)
+**电子邮件**：[mal15@tsinghua.org.cn](mailto:ml112265@126.com)
 
 **知乎**: [马力 https://www.zhihu.com/people/xmg91](https://www.zhihu.com/people/xmg91)
 
