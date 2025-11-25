@@ -1,4 +1,4 @@
-## My solutions to Leetcode
+G## My solutions to Leetcode
 
 I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/all/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java also. I will try my best to support more language in the future :)
 
@@ -2971,7 +2971,7 @@ email: [ml112265@126.com](mailto:ml112265@126.com)
 | 2877 | | | | | |
 | 2878 | | | | | |
 | 2879 | | | | | |
-| | | | | | |
+| 2880 | | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
