@@ -4,7 +4,7 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 
 Please feel free to contact me if you have any questions with this repo:)
 
-email: [mal15@tsinghua.org.cn](mailto:ml112265@126.com)
+email: [mal15@tsinghua.org.cn](mailto:mal15@tsinghua.org.cn)
 
 ---
 
