@@ -1,4 +1,4 @@
-GG## My solutions to Leetcode
+## My solutions to Leetcode
 
 I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/all/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java also. I will try my best to support more language in the future :)
 
